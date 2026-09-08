@@ -9,9 +9,7 @@ All parts are printed in PLA.
 
 ---
 
-## Parts
-
-### Encoder mount
+## Encoder mount
 
 <img src="images/encoder_mount.png" width="380" align="right">
 
@@ -31,9 +29,9 @@ Bracket carrying the wheel encoder against the driveshaft.
   <img src="images/encoder_mount_installed.jpg" width="47%">
 </p>
 
-<p align="center"><em>Printed mount carrying a CUI AMT103 encoder · installed on the driveshaft</em></p>
+<p align="center"><em>Printed mount carrying encoder · installed on the driveshaft</em></p>
 
-### PCB standoff
+## PCB standoff
 
 <img src="images/pcb_standoff_v1.png" width="380" align="right">
 
@@ -49,7 +47,7 @@ Tray that lifts pcb off the acrylic base plate and holds it at the corners.
 
 <br clear="all">
 
-### Speaker clamp
+## Speaker clamp
 
 <img src="images/speaker_clamp_v3.png" width="380" align="right">
 
@@ -70,5 +68,3 @@ Tray that lifts pcb off the acrylic base plate and holds it at the corners.
 </p>
 
 <p align="center"><em>Clamp fitted to the driver, tabs adding the mounting holes · driver mounted in the enclosure</em></p>
-
----
