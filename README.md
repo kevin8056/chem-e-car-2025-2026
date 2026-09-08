@@ -1,10 +1,10 @@
 # Chem-E-Car 2025–2026
 
-Mechanical design files for our AIChE Chem-E-Car entry. Every part below has an
+Mechanical design files for my work on the McMaster AIChE Chem-E-Car 2025-2026 entry. Every part below has an
 STL you can spin in your browser — **click any `.stl` link and GitHub renders it
-in 3D**, no download, no CAD licence.
+in 3D**.
 
-All dimensions in millimetres. Drawings drawn by Kevin, March 2026.
+All dimensions in millimetres. Drawings drawn by me (Kevin).
 
 ---
 
@@ -30,7 +30,7 @@ Bracket carrying the wheel encoder against the drivetrain.
 
 <img src="images/pcb_standoff_v1.png" width="380" align="right">
 
-Tray that lifts the control board off the chassis and holds it at the corners.
+Tray that lifts pcb off the acrylic base plate and holds it at the corners.
 
 | | |
 |---|---|
@@ -47,7 +47,7 @@ Tray that lifts the control board off the chassis and holds it at the corners.
 
 <img src="images/speaker_clamp_v3.png" width="380" align="right">
 
-Split retaining ring clamping the speaker to its mounting face.
+1/2 of a clamp adding mounting holes to a speaker.
 
 | | |
 |---|---|
@@ -60,26 +60,3 @@ Split retaining ring clamping the speaker to its mounting face.
 <br clear="all">
 
 ---
-
-## Repository layout
-
-| Path | Contents |
-|---|---|
-| [`cad/stl`](cad/stl) | Meshes — click any file for GitHub's 3D viewer |
-| [`cad/step`](cad/step) | STEP exports for other CAD packages |
-| [`cad/source`](cad/source) | Autodesk Inventor part files (`.ipt`) |
-| [`docs`](docs) | Dimensioned drawings — render inline on GitHub |
-| [`images`](images) | Renders used above |
-| [`code`](code) | Microcontroller and analysis code |
-| [`data`](data) | Test and calibration runs |
-
-## Working with these files
-
-- **Just looking?** Click any `.stl` above. Drag to spin, scroll to zoom.
-- **Printing?** All parts modelled in mm; STLs export at that scale directly.
-- **Editing?** Open the `.ipt` in Inventor 2024 or later, or import the STEP.
-
-## Licence
-
-*Add one — [CERN-OHL-S v2](https://cern-ohl.web.cern.ch/) is the usual pick for
-open hardware; CC BY-SA 4.0 for the drawings and documentation.*
