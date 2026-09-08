@@ -29,7 +29,7 @@ Bracket carrying the wheel encoder against the driveshaft.
   <img src="images/encoder_mount_installed.jpg" width="47%">
 </p>
 
-<p align="center"><em>Printed mount carrying encoder · installed on the driveshaft</em></p>
+<p align="center"><em>Printed mount carrying a CUI AMT103 encoder · installed on the driveshaft</em></p>
 
 ## PCB standoff
 
@@ -46,6 +46,14 @@ Tray that lifts pcb off the acrylic base plate and holds it at the corners.
 | **Drawing** | [`docs/pcb_standoff_v1_drawing.pdf`](docs/pcb_standoff_v1_drawing.pdf) |
 
 <br clear="all">
+
+<p align="center">
+  <a href="docs/pcb_standoff_v1_drawing.pdf">
+    <img src="images/pcb_standoff_v1_drawing.png" width="88%">
+  </a>
+</p>
+
+<p align="center"><em>Dimensioned drawing — click for the PDF</em></p>
 
 ## Speaker clamp
 
