@@ -5,6 +5,7 @@ STL you can spin in your browser — **click any `.stl` link and GitHub renders 
 in 3D**.
 
 All dimensions in millimetres. Drawings drawn by me (Kevin).
+All parts are printed in PLA.
 
 ---
 
@@ -14,7 +15,7 @@ All dimensions in millimetres. Drawings drawn by me (Kevin).
 
 <img src="images/encoder_mount.png" width="380" align="right">
 
-Bracket carrying the wheel encoder against the drivetrain.
+Bracket carrying the wheel encoder against the driveshaft.
 
 | | |
 |---|---|
@@ -22,9 +23,15 @@ Bracket carrying the wheel encoder against the drivetrain.
 | **Key features** | Ø9.35 shaft bore, 2× Ø2.80 fasteners, 4× R5.00 fillets |
 | **3D model** | [`cad/stl/encoder_mount.stl`](cad/stl/encoder_mount.stl) |
 | **Drawing** | [`docs/encoder_mount_drawing.pdf`](docs/encoder_mount_drawing.pdf) |
-| **Source** | [`cad/source/encoder_mount.ipt`](cad/source/encoder_mount.ipt) |
 
 <br clear="all">
+
+<p align="center">
+  <img src="images/encoder_mount_hand.jpg" width="47%">
+  <img src="images/encoder_mount_installed.jpg" width="47%">
+</p>
+
+<p align="center"><em>Printed mount carrying a CUI AMT103 encoder · installed on the driveshaft</em></p>
 
 ### PCB standoff
 
@@ -39,7 +46,6 @@ Tray that lifts pcb off the acrylic base plate and holds it at the corners.
 | **Standoff height** | 3.00 mm |
 | **3D model** | [`cad/stl/pcb_standoff_v1.stl`](cad/stl/pcb_standoff_v1.stl) |
 | **Drawing** | [`docs/pcb_standoff_v1_drawing.pdf`](docs/pcb_standoff_v1_drawing.pdf) |
-| **Source** | [`cad/source/pcb_standoff_v1.ipt`](cad/source/pcb_standoff_v1.ipt) |
 
 <br clear="all">
 
@@ -52,11 +58,17 @@ Tray that lifts pcb off the acrylic base plate and holds it at the corners.
 | | |
 |---|---|
 | **Envelope** | 46.8 × 37.4 × 1.8 mm |
-| **Features** | Two-tab clamp, split ring |
+| **Features** | 2× mounting tabs at 180°, terminal cutout for the speaker leads |
 | **3D model** | [`cad/stl/speaker_clamp_v3.stl`](cad/stl/speaker_clamp_v3.stl) |
 | **Drawing** | *not yet drawn* |
-| **Source** | [`cad/source/speaker_clamp_v3.ipt`](cad/source/speaker_clamp_v3.ipt) |
 
 <br clear="all">
+
+<p align="center">
+  <img src="images/speaker_clamp_fitted.jpg" width="47%">
+  <img src="images/speaker_assembly.jpg" width="47%">
+</p>
+
+<p align="center"><em>Clamp fitted to the driver, tabs adding the mounting holes · driver mounted in the enclosure</em></p>
 
 ---
